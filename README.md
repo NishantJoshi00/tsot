@@ -59,12 +59,12 @@ async fn example() {
 
 ## 🗃 Supported Backends
 
-| Backend   | Status     | Async | Sync |
-| --------- | ---------- | ----- | ---- |
-| In-Memory | ✅ Stable  | ✅    | ✅   |
-| Redis     | 🚧 Planned | ✅    | ✅   |
-| Memcached | 🚧 Planned | ✅    | ✅   |
-| RocksDB   | 🚧 Planned | ✅    | ✅   |
+| Backend   | Status          | Async | Sync |
+| --------- | --------------- | ----- | ---- |
+| In-Memory | ✅ Stable       | ✅    | ✅   |
+| Redis     | ⚠️ Experimental | ✅    | ❌   |
+| Memcached | 🚧 Planned      | ✅    | ✅   |
+| RocksDB   | 🚧 Planned      | ✅    | ✅   |
 
 ## 📊 Benchmarks
 
