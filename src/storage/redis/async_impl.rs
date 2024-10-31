@@ -1,4 +1,3 @@
-// redis_storage/async_impl.rs
 use async_trait::async_trait;
 use fred::{
     interfaces::KeysInterface,

@@ -1,4 +1,3 @@
-// redis_storage/mod.rs
 #[cfg(feature = "async")]
 mod async_impl;
 

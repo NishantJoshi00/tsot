@@ -73,7 +73,7 @@ Performance is a key priority. Detailed benchmarks coming soon!
 ## 🛤 Roadmap
 
 - [x] In-Memory Backend
-- [ ] Redis Backend
+- [x] Redis Backend
 - [ ] Memcached Backend
 - [ ] Performance Benchmarking
 - [ ] Persistent Storage Support
